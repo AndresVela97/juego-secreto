@@ -1,0 +1,5 @@
+ El juego del numero secreto es un programa simple :
+Se trata de adivinar un numero secreto del 1 al 5, generado de manera random. El jugador tendra 5 intentos para adivinar el numero secreto
+Si el jugador adivina el numero secreto, se mostrara en pantalla un mensaje indicando el numero y la cantidad de intentos que tomo adivinar el numero
+Si el jugador no adivina el numero secreto en los 5 intentos permitidos, se mostrara un mensaje indicando el numero secreto.
+El juegos se realizo utilizando las Herramientas de Html, Css y Javascript
